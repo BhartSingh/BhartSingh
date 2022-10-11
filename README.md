@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML,CSS and Javascript**
 
 - 📫 How to reach me **monuranoliya731@gmail.com**
-
+  ⚡ Fun fact **I like driving and Learn Something New** 📖
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhart singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhart singh" height="30" width="40" /></a>
