@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhartSingh](https://github.com/BhartSingh)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **HTML,CSS and Javascript**
 
 - 📫 How to reach me **monuranoliya731@gmail.com**
 
