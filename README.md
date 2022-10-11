@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhart Singh</h1>
-<h3 align="center">Final year BCA student 😊</h3>
+<h3 align="center">Collage student 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartsingh&label=Profile%20views&color=0e75b6&style=flat" alt="bhartsingh" /> </p>
 
