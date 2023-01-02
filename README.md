@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML,CSS and Javascript**
 
-- 📫 How to reach me **monuranoliya731@gmail.com**
+- 📫 How to reach me **bhartranoliya731@gmail.com**
 - 
   ⚡ Fun fact **I like driving and Learn Something New** 📖
 <h3 align="left">Connect with me:</h3>
